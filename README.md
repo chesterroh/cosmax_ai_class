@@ -4,8 +4,7 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 # Aug-27.2020
 
-Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. [https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib%20tutorial.ipynb][숙제를 하나 더 만들었습니다] 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. 주말에도 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
-
+Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib%20tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. 주말에도 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
 # Aug-26.2020
 
 코로나로 인하여 오늘 강연이 연기되었습니다. pytorch 를 이용해서 기초부터 찬찬히 시작해서 테스트감성분석, 복잡한 이미지생성 등등 까지 앞으로 먼길을 걸어가게 될텐데요. 일단 pytorch 를 이용해서 본격적인 Deep Learning 세계에 뛰어들기 전에 간단하게 복습 겸 기본개념을 좀 짚고 넘어가도록 하겠습니다.  Youtube 에서 괜찮은 강연을 찾기 위해서 이것저것 둘러봤는데요. "딥러닝호형" 이라는 분이 만드신 강연이 일단 복습 및 기본개념 학습자료로 좋은 것 같아서 선정을 했습니다.
