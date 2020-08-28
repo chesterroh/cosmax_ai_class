@@ -4,8 +4,8 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 # Aug-28.2020
 
-__[Numpy 를 이용해서 mnist dataset 을 다운로드하고 다루는 예제를 하나 추가했구요.](https://github.com/chesterroh/cosmax_ai_class/blob/master/01_mnist_dataset_numpy.ipynb),
-__[지난 수업에서 이론강연을 하고 간단하게 구현해보았던 Linear Regression 에 대해서 좀더 자세한 학습노트를 만들었습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/02_numpy_linear_regression.ipynb) 
+* __[Numpy 를 이용해서 mnist dataset 을 다운로드하고 다루는 예제를 하나 추가했구요.(01_mnist_dataset_numpy)](https://github.com/chesterroh/cosmax_ai_class/blob/master/01_mnist_dataset_numpy.ipynb)__
+* __[지난 수업에서 이론강연을 하고 간단하게 구현해보았던 Linear Regression 에 대해서 좀더 자세한 학습노트를 만들었습니다.(02_numpy_linear_regression)](https://github.com/chesterroh/cosmax_ai_class/blob/master/02_numpy_linear_regression.ipynb)__
 
 다음주 9월 2일 수업에서 여러분들이 직접 따라서 코딩을 해보셔야 할 노트입니다. (제가 만든 노트 실행만 시켜보는게 아니라, 여러분의 notebook 에서 직접 손으로 타이핑하게 할 예정이니 미리 예습하실 분들은 예습하시기 바랍니다. ^^^) 
 
