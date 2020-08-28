@@ -2,6 +2,13 @@
 
 COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 repository 입니다.
 
+# Aug-28.2020
+
+__[Numpy 를 이용해서 mnist dataset 을 다운로드하고 다루는 예제를 하나 추가했구요.](https://github.com/chesterroh/cosmax_ai_class/blob/master/01_mnist_dataset_numpy.ipynb),
+__[지난 수업에서 이론강연을 하고 간단하게 구현해보았던 Linear Regression 에 대해서 좀더 자세한 학습노트를 만들었습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/02_numpy_linear_regression.ipynb) 
+
+다음주 9월 2일 수업에서 여러분들이 직접 따라서 코딩을 해보셔야 할 노트입니다. (제가 만든 노트 실행만 시켜보는게 아니라, 여러분의 notebook 에서 직접 손으로 타이핑하게 할 예정이니 미리 예습하실 분들은 예습하시기 바랍니다. ^^^) 
+
 # Aug-27.2020
 
 Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib%20tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. numpy 가 좀 재밌어지실거에요.. numpy 연습을 위해서 주말에 간단한 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
