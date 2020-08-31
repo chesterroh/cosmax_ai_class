@@ -11,7 +11,7 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 # Aug-27.2020
 
-Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib%20tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. numpy 가 좀 재밌어지실거에요.. numpy 연습을 위해서 주말에 간단한 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
+Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib_tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. numpy 가 좀 재밌어지실거에요.. numpy 연습을 위해서 주말에 간단한 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
 
 # Aug-26.2020
 
