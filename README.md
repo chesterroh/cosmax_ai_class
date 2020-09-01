@@ -2,6 +2,13 @@
 
 COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 repository 입니다.
 
+# Sep-1.2020
+
+9월 1일입니다. python 수업으로 가볍게 시작한 수업이 2달이 넘는 시간이 흘렀습니다. 9월 2일 수업시간에는 00_python_numpy_matplotlib 노트에서 소개하고 있는 python, numpy, matplotlib 에 대해서 Google colab 위에서 실습을 할 예정이구요. linear regression, logistic regression 관련하여 sample code 를 실행해보는 시간을 갖도록 하겠습니다. logistic regression code 를 실행하기 전에는 머리아픈 이론복습을 한번 더 하면서 data 가 어떻게 matrix 로 표현되고, 연산이 되는지 dimension 들을 꼼꼼히 살펴보면서 개념탑재를 해보도록 하겠습니다. 
+
+* __[오늘 올라간 예제는 mnist dataset 중에서 단 두개의 숫자만 추출해서 logistic regression 을 numpy 로 구현해보는 것입니다. (03_numpy_logistic_regression)](https://github.com/chesterroh/cosmax_ai_class/blob/master/03_numpy_logistic_regression.ipynb)
+
+
 # Aug-28.2020
 
 * __[Numpy 를 이용해서 mnist dataset 을 다운로드하고 다루는 예제를 하나 추가했구요.(01_mnist_dataset_numpy)](https://github.com/chesterroh/cosmax_ai_class/blob/master/01_mnist_dataset_numpy.ipynb)__
@@ -11,7 +18,7 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 # Aug-27.2020
 
-Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다.](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib_tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. numpy 가 좀 재밌어지실거에요.. numpy 연습을 위해서 주말에 간단한 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
+Aug-26 에 내어드린 숙제를 검사할 목적으로 제가 youtube 강연을 한번 훑어보았습니다만, 숙제의 양이 너무 적다는 느낌(?)이 들어서요. __[숙제를 하나 더 만들어보았습니다. 01_python_numpy_matplotlib_tutorial](https://github.com/chesterroh/cosmax_ai_class/blob/master/00_python_numpy_matplotlib_tutorial.ipynb)__ 해당 notebook file 을 google colab 으로 불러서 실행하실 수 있습니다. github 에 있는 Jupyter Notebook 을 불러오는 방법은 아래 소개드린 colab 설명 youtube 동영상에 소개되어 있습니다. 간단하게 link 로 알려드릴 수 있지만, 여러분의 학습을 위해서 설명드리지 않도록 하겠습니다.  다음주 수요일 수업시간 전에 얼마나 공부하셨는지 간략하게 나마 퀴즈세션을 갖도록 해볼께요. 재택근무기간동안 힘내시구요! 계속 앞으로 전진하십시다. numpy 가 좀 재밌어지실거에요.. numpy 연습을 위해서 주말에 간단한 연습용 notebook 을 하나 더 배포해드리도록 하겠습니다.
 
 # Aug-26.2020
 
