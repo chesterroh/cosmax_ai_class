@@ -6,7 +6,7 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 9월 1일입니다. python 수업으로 가볍게 시작한 수업이 2달이 넘는 시간이 흘렀습니다. 9월 2일 수업시간에는 00_python_numpy_matplotlib 노트에서 소개하고 있는 python, numpy, matplotlib 에 대해서 Google colab 위에서 실습을 할 예정이구요. linear regression, logistic regression 관련하여 sample code 를 실행해보는 시간을 갖도록 하겠습니다. logistic regression code 를 실행하기 전에는 머리아픈 이론복습을 한번 더 하면서 data 가 어떻게 matrix 로 표현되고, 연산이 되는지 dimension 들을 꼼꼼히 살펴보면서 개념탑재를 해보도록 하겠습니다. 
 
-* __[오늘 올라간 예제는 mnist dataset 중에서 단 두개의 숫자만 추출해서 logistic regression 을 numpy 로 구현해보는 것입니다. (03_numpy_logistic_regression)](https://github.com/chesterroh/cosmax_ai_class/blob/master/03_numpy_logistic_regression.ipynb)
+* __[오늘 올라간 예제는 mnist dataset 중에서 단 두개의 숫자만 추출해서 logistic regression 을 numpy 로 구현해보는 것입니다. (03_numpy_logistic_regression)](https://github.com/chesterroh/cosmax_ai_class/blob/master/03_numpy_logistic_regression.ipynb)__
 
 
 # Aug-28.2020
