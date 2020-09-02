@@ -6,9 +6,9 @@ COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 rep
 
 pytorch 학습을 시작하기 위해서 두개의 학습교재 note 를 upload 했습니다. 오늘 업로딩한 교재는 9월 9일 수업에서 다루게 될 내용입니다. 
 
-* __[PYTORCH tensor manipulation tutorial](https://github.com/chesterroh/cosmax_ai_class/blob/master/04_pytorch_tutorial_basic_tensor.ipynb)__
+* __[PYTORCH tensor manipulation tutorial (04_pytorch_tutorial_basic_tensor)](https://github.com/chesterroh/cosmax_ai_class/blob/master/04_pytorch_tutorial_basic_tensor.ipynb)__
 
-* __[PYTORCH MNIST fully connected network](https://github.com/chesterroh/cosmax_ai_class/blob/master/05_pytorch_mnist_fully_connected.ipynb)__
+* __[PYTORCH MNIST fully connected network (05_pytorch_mnist_fully_connected)](https://github.com/chesterroh/cosmax_ai_class/blob/master/05_pytorch_mnist_fully_connected.ipynb)__
 
 
 # Sep-1.2020
