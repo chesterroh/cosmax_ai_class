@@ -2,6 +2,10 @@
 
 COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 repository 입니다.
 
+# Sep-10. 2020
+
+* Losgistic Regression 의 numpy 구현에 대한 background theory 를 [여기](https://github.com/chesterroh/cosmax_ai_class/blob/master/03_logistic_regression_background_theory.pdf)에 업데이트 해두었습니다. 
+
 # Sep-2.2020
 
 pytorch 학습을 시작하기 위해서 두개의 학습교재 note 를 upload 했습니다. 오늘 업로딩한 교재는 9월 9일 수업에서 다루게 될 내용입니다. 
