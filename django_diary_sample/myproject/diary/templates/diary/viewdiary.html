@@ -1,0 +1,18 @@
+<h2>Subject</h2>
+{{ entry.subject }}
+
+<p />
+<h2> 내용 </h2>
+{{ entry.body }}
+
+<p />
+
+<a href="{% url 'amend' entry.pk %}">AMEND THIS DIARY</a>
+
+<p />
+
+<a href="{% url 'delete' entry.pk %}">DELETE THIS DIARY</a>
+
+<p />
+
+<a href="{% url 'index' %}">[[ TO THE TOP ]]</a>

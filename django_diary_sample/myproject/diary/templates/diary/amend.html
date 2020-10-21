@@ -1,0 +1,15 @@
+<h1> amend my diary for {{ entry.subject }} </h1>
+
+<form action="{% url 'save' %}" method="post">
+    {% csrf_token %}
+    <input type="hidden" name="new_flag" value="0">
+    <input type="hidden" name="entry_id" value="{{ entry.pk }}">
+    <h3>subject :: </h3>
+    <input type="text" name="subject" value="{{ entry.subject }}">
+    <p />
+    <h3> Input your diary here :::: </h3>
+    <textarea name="body" rows="3" cols="50">{{ entry.body }}</textarea>
+    <p />
+    <input type="submit" value="Submit">
+    </form>
+    
