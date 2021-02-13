@@ -1,4 +1,6 @@
 *.ipynb_checkpoints*
 *.gz
 *sample_data*
+*\.data*
+*tfevents*
 
