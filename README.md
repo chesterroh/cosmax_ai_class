@@ -2,6 +2,10 @@
 
 COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 repository 입니다.
 
+# Feb-14. 2021
+
+Pytorch 에서 [Tensor 를 다루는 법](https://github.com/chesterroh/cosmax_ai_class/blob/master/04_pytorch_tutorial_basic_supplement_practice.ipynb)에 대해서 조금 자세하게 연습노트를 하나 더 만들어 두었습니다. 이제 Fully-Connected 부터 Convolution, RNN 을 넘어서서 Transformer 까지 한번 달려보도록 합시다 :)
+
 # Feb-13. 2021
 
 * pytorch tutorial 부터 다시 시작합니다. AI 의 기초개념들만 탑재를 했으니, 이제 조금씩 예제를 한번 풀어가 보도록 할까요. 
