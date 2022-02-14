@@ -6,4 +6,5 @@
 *datasets*
 *./data*
 *data*
-*./.data*
+*.data*
+*.pt*
