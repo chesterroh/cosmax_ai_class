@@ -1,6 +1,15 @@
-# COSMAX AI CLASS 2020
+# COSMAX AI CLASS 2022
 
-COSMAX 에서 진행하는 AI CLASS 2020 관련한 자료들을 모아놓는 repository 입니다.
+(last-update:  Feb-15, 2022 chester)
+
+COSMAX 에서 진행하는 AI CLASS 2022 관련한 자료들을 모아놓는 repository 입니다.
+
+# Feb-15. 2022
+
+두달전에 수업은 시작했습니다만, 리파지토리 관리는 깔끔하게 못했네요.. 이번달에는 RNN 의 기본구조, 기본구현에 대해서 집중적으로 배우고,
+LSTM 을 이용한 seq2seq 구현, 그리고 여기에 attention 을 적용해보는 것을 통해서 attention 의 개념에 대해서 이해를 하는 것으로 하겠습니다. 
+그 이후에 transformer 공부를 시작할지 아니면 이제 transformer 는 blackbox 로 덮어두고 fine-tuning 만 집중적으로 다루어볼지에 대해서 한번 생각해봅시다.
+
 
 # Feb-14. 2021
 
